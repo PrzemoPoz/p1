@@ -17,17 +17,11 @@ elif x>=90 and x<=100:
 elif x>10 and x<90:
     if y>10 and y<90:
         poz_x="centrum"
-        if y>=0 and y<=10:
-            poz_y="dolnej krawędzi"
-        else:
-            poz_y="górnej krawędzi"
-elif y>10 and y<90:
-    if x>10 and x<90:
-        poz_y="centrum"
-        if x>=0 and x<=10:
-            poz_x="lewej krawędzi"
-        else:
-            poz_x="prawej krawędzi hahahaa"
+    elif y>=0 and y<=10:
+        poz_y="dolnej krawędzi"
+    else:
+        poz_y="górnej krawędzi"
+
 
 
 print (f"""Gracz znajduje się w {poz_x} {poz_y}""")
