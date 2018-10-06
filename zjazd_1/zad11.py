@@ -27,7 +27,7 @@ elif y>10 and y<90:
         if x>=0 and x<=10:
             poz_x="lewej krawędzi"
         else:
-            poz_x="prawej krawędzi"
+            poz_x="prawej krawędzi doooooooooopa"
 
 
 print (f"""Gracz znajduje się w {poz_x} {poz_y}""")
