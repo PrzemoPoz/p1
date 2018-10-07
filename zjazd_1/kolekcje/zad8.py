@@ -6,5 +6,5 @@ kon = slowo.index('>')
 slowon = slowo[pocz:kon]
 licz = len(slowon)
 
-print(slowo)
+print(slowo[pocz])
 print(f"""Ilość znaków w nawiasach to {licz}""")
