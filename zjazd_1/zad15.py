@@ -1,5 +1,4 @@
 from random import randint
-
 i = 1
 skarbx = randint(0, 9)
 skarby = randint(0, 9)
@@ -32,7 +31,6 @@ while True:
             usery = usery + 1
         else:
             usery = 9
-    i = i + 1
     if abs(userx - skarbx) + abs(usery - skarby) == 0:
         print(f"""Brawo - znalazłeś skarb ukryty w punkcie ({skarbx},{skarby})
         Ogarnąłęś to w {i} ruchów""")
@@ -46,3 +44,4 @@ while True:
     else:
         print(f"""Jesteś w punkcie ({userx},{usery}). Oddalasz się""")  # (skarb jest w ({skarbx},{skarby})""")
         odl = abs(userx - skarbx) + abs(usery - skarby)
+    i = i + 1
