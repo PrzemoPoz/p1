@@ -22,6 +22,6 @@ elif x>10 and x<90:
     else:
         poz_y="górnej krawędzi"
 
-
+#fddsfd
 
 print (f"""Gracz znajduje się w {poz_x} {poz_y}""")
