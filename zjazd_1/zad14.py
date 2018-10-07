@@ -7,6 +7,7 @@ while True:
     liczba = input(f"""Podaj {i}-tą liczbę: """)
     if liczba == "x":# or type(liczba)!=float or type(liczba)!=int:
         liczba = 0
+
         break
     else:
         liczba = float(liczba)
@@ -24,6 +25,9 @@ while True:
         suma = suma + liczba
         i=i+1
 
-print(f"""Średnia dla {i-1} liczb to {round(suma/(i-1),2)}
-Największa liczba była w pisania przez Ciebie w {imini} iteracji, gdy podałeś {mini}
-Największa liczba była w pisania przez Ciebie w {imaks} iteracji, gdy podałeś {maks}""")
+if suma==0:
+    print(f"""Nie podałęś żadnej liczby""")
+else:
+    print(f"""Średnia dla {i-1} liczb to {round(suma/(i-1),2)}
+    Największa liczba wpisania przez Ciebie w {imini} iteracji, gdy podałeś {mini}
+    Największa liczba wpisania przez Ciebie w {imaks} iteracji, gdy podałeś {maks}""")
