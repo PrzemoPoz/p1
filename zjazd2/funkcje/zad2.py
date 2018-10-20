@@ -9,9 +9,9 @@ def wiecej_niz(napis,max_licz):
             tekst.add(xx)
     return tekst
 
-napis=input("wpisz tekst: ")
-max_licz=int(input("jaki maks? "))
-print(wiecej_niz(napis,max_licz))
+#napis=input("wpisz tekst: ")
+#max_licz=int(input("jaki maks? "))
+#print(wiecej_niz(napis,max_licz))
 
 
 #def test_wiecej_niz_dla_pustego_napisu():
