@@ -1,4 +1,4 @@
-slownik={'ziemniaki':1.5,'jabłka':2.5}
+slownik={'ziemniaki':1.5,'jablka':2.5,'xx':1}
 
 co=input("wpisz co kupujesz: ")
 ile=float(input("wpisz ile kilosów: "))
