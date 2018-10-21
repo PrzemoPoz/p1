@@ -6,7 +6,7 @@ def rzezba_w_tekscie(napis):
     i = 0
     for znak in napis:
         if i % 2 != 0:
-            napis1 += znak + znak
+            napis1 += znak*2
         else:
             napis1 += znak
         i += 1
