@@ -12,3 +12,14 @@ def kalkulator(a,b,operacja="+",opis=""):
 print(kalkulator(1,2))
 print(kalkulator(1,2,"-"))
 print(kalkulator(1,2,"-","przykładowy opis"))
+
+print()
+print()
+
+
+
+def foo2(*args):
+    print(args)
+
+x={"tekst1","tekst2","tekst3"}
+foo2(*x)
