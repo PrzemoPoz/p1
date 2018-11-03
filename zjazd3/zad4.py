@@ -1,5 +1,4 @@
 class Product:
-
     def __init__(self, ID, nazwa, cena):
         self.ID = ID
         self.nazwa = nazwa
@@ -8,9 +7,7 @@ class Product:
     def print_info(self):
         return f'Produkt {self.nazwa}, id: {self.ID}, cena: {self.cena} PLN'
 
-
-class Basket:
-
+class Basket(object):
     def __init__(self):
         self.basket = {}
 
@@ -31,18 +28,19 @@ class Basket:
 basket = Basket()
 product = Product(1, "Woda", 10.99)
 basket.add_product(product, 10)
-
 print(basket.product.cena)
-print(basket.generate_report())
+product = Product(2, "Wóda", 20.99)
+basket.add_product(product, 10)
+print(basket.product.cena)
 
+print(basket.generate_report())
 
 def test_basket():
     basket = Basket()
     product = Product(1, "Woda", 10)
+    product = Product(2, "Woda", 10)
     basket.add_product(product, 5)
-
     assert basket.count_total_price() == 50.00
-
     assert basket.generate_report() == '''Produkty w koszyku:\n 
     - Woda (1), cena: 10 x 5\n
     W sumie: 50'''
