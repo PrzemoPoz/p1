@@ -25,3 +25,4 @@ basket.add_product(product,5)
 basket.count_total_price()
 
 basket.generate_report()
+
