@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd3/zad6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd3/zad4.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/zad4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd3/zad7.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/zad7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd3/zad4.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
           <entry key="pem" value="1" />
           <entry key="ps1" value="1" />
           <entry key="pth" value="2" />
-          <entry key="py" value="465" />
+          <entry key="py" value="468" />
           <entry key="py___jb_tmp___" value="1" />
           <entry key="tcl" value="3" />
           <entry key="txt" value="5" />
@@ -51,37 +49,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="465" />
+          <entry key="Python" value="468" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="329" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="26824" />
+          <entry key="py" value="26832" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="27153" />
+          <entry key="Python" value="27161" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zjazd3/zad4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -548,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541254197127</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="takie tam1">
+      <created>1541258652983</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1541258652983</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -594,7 +589,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17913593" />
@@ -997,16 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/zad7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
-          <folding>
-            <marker date="1541256348321" expanded="true" signature="565:633" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd3/zad3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1014,6 +998,13 @@
           <folding>
             <marker date="1541246168228" expanded="true" signature="18:19" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1027,10 +1018,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/zad4.py">
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="68">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <marker date="1541256348321" expanded="true" signature="565:633" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
