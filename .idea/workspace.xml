@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd3/klasy-przyklady.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zad7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd3/zadanie_rozgrzewka.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd3/klasy-przyklady.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd3/klasy-przyklady.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +46,7 @@
           <entry key="pem" value="1" />
           <entry key="ps1" value="1" />
           <entry key="pth" value="2" />
-          <entry key="py" value="446" />
+          <entry key="py" value="454" />
           <entry key="py___jb_tmp___" value="1" />
           <entry key="tcl" value="3" />
           <entry key="txt" value="5" />
@@ -49,36 +55,115 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="446" />
+          <entry key="Python" value="454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="329" />
           <entry key="gitignore" value="30" />
-          <entry key="py" value="22343" />
+          <entry key="py" value="26158" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="22672" />
+          <entry key="Python" value="26487" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zjazd3/klasy-przyklady.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <marker date="1541234286614" expanded="true" signature="101:106" ph="..." />
-                <marker date="1541234286614" expanded="true" signature="101:336" ph="..." />
-                <marker date="1541234286614" expanded="true" signature="309:314" ph="..." />
+                <marker date="1541244182972" expanded="true" signature="101:106" ph="..." />
+                <marker date="1541244182972" expanded="true" signature="101:613" ph="..." />
+                <marker date="1541244182972" expanded="true" signature="370:375" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zadanie_rozgrzewka.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <marker date="1541243862891" expanded="true" signature="368:369" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zad1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <marker date="1541238711428" expanded="true" signature="15:20" ph="..." />
+                <marker date="1541238711428" expanded="true" signature="320:485" ph="..." />
+                <marker date="1541238711428" expanded="true" signature="515:520" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zad2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <marker date="1541250156903" expanded="true" signature="208:240" ph="..." />
+                <marker date="1541250156903" expanded="true" signature="286:295" ph="..." />
+                <marker date="1541250156903" expanded="true" signature="649:748" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zad3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1541246168228" expanded="true" signature="18:19" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zad7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="83" column="25" lean-forward="true" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+              <folding>
+                <marker date="1541254123832" expanded="true" signature="565:635" ph="..." />
+                <marker date="1541254123832" expanded="true" signature="1518:1721" ph="..." />
+                <marker date="1541254123832" expanded="true" signature="1518:2077" ph="..." />
+                <marker date="1541254123832" expanded="true" signature="1617:1636" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd3/zad4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <marker date="1541250872647" expanded="true" signature="175:194" ph="..." />
               </folding>
             </state>
           </provider>
@@ -96,6 +181,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>L</find>
+      <find>ł</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,13 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zjazd_1/zad6.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/operatory.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/zad7.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/zad8.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/zad9.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/zad10.py" />
-        <option value="$PROJECT_DIR$/zjazd_1/zad11.py" />
         <option value="$PROJECT_DIR$/zjazd_1/zad12.py" />
         <option value="$PROJECT_DIR$/zjazd_1/zad13.py" />
         <option value="$PROJECT_DIR$/zjazd_1/zad14.py" />
@@ -154,7 +233,14 @@
         <option value="$PROJECT_DIR$/zjazd2/funkcje/zad4opt.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/lambda.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/zad7.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad1.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad_dokończ.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zadanie_rozgrzewka.py" />
         <option value="$PROJECT_DIR$/zjazd3/klasy-przyklady.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad3.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad2.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad4.py" />
+        <option value="$PROJECT_DIR$/zjazd3/zad7.py" />
       </list>
     </option>
   </component>
@@ -173,6 +259,11 @@
             <id>Python</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -214,8 +305,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zjazd2/funkcje/zad4.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zjazd3/zad3.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -242,8 +333,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.klasy-przyklady">
-    <configuration name="klasy-przyklady" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zad7">
+    <configuration name="klasy-przyklady" type="PythonConfigurationType" factoryName="Python">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +355,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/funkcje/lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zad1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad4opt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,11 +384,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/funkcje/zad4opt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zad2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,17 +447,83 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd2/funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd2/funkcje/zad7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zad7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadanie_rozgrzewka" type="PythonConfigurationType" factoryName="Python">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd3/zadanie_rozgrzewka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="tests" factoryName="py.test">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\bootcamp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zjazd3/zad3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for zad3.test_drive1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zad3.test_drive1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for zad3.test_electric1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zad3.test_electric1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest funkcje przykład" type="tests" factoryName="py.test">
@@ -342,7 +541,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in zad7.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in zad7.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,20 +557,26 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest funkcje przykład" />
-      <item itemvalue="Python.zad4opt" />
-      <item itemvalue="Python.lambda" />
-      <item itemvalue="Python tests.pytest in zad7.py" />
-      <item itemvalue="Python.zad7" />
+      <item itemvalue="Python.zad2" />
       <item itemvalue="Python.klasy-przyklady" />
+      <item itemvalue="Python.zadanie_rozgrzewka" />
+      <item itemvalue="Python.zad1" />
+      <item itemvalue="Python tests.Unnamed" />
+      <item itemvalue="Python tests.pytest funkcje przykład" />
+      <item itemvalue="Python tests.pytest in zad7.py" />
+      <item itemvalue="Python.zad4" />
+      <item itemvalue="Python tests.pytest for zad3.test_drive1" />
+      <item itemvalue="Python tests.pytest for zad3.test_electric1" />
+      <item itemvalue="Python.zad4 (1)" />
+      <item itemvalue="Python.zad7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.klasy-przyklady" />
-        <item itemvalue="Python tests.pytest in zad7.py" />
         <item itemvalue="Python.zad7" />
-        <item itemvalue="Python.lambda" />
-        <item itemvalue="Python.zad4opt" />
+        <item itemvalue="Python.zad4 (1)" />
+        <item itemvalue="Python.zad4" />
+        <item itemvalue="Python tests.pytest for zad3.test_electric1" />
+        <item itemvalue="Python tests.pytest for zad3.test_drive1" />
       </list>
     </recent_temporary>
   </component>
@@ -554,38 +759,52 @@
       <option name="project" value="LOCAL" />
       <updated>1540133614119</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="takie tam1">
+      <created>1541234352494</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1541234352494</updated>
+    </task>
+    <task id="LOCAL-00026" summary="takie tam1">
+      <created>1541235267864</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541235267864</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 47m 15s.xml">
+    <history-entry file="pytest_for_zad3_test_electric1 - 2018.11.03 at 12h 56m 09s.xml">
+      <configuration name="pytest for zad3.test_electric1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.11.03 at 12h 56m 12s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.11.03 at 14h 02m 11s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.11.03 at 14h 05m 08s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 21m 08s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 47m 56s.xml">
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 24m 31s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 48m 19s.xml">
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 29m 19s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 49m 15s.xml">
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 35m 32s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 50m 49s.xml">
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 35m 49s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 51m 23s.xml">
-      <configuration name="pytest in zad7.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 51m 39s.xml">
-      <configuration name="pytest in zad7.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 51m 48s.xml">
-      <configuration name="pytest in zad7.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 51m 53s.xml">
-      <configuration name="pytest in zad7.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_zad7_py - 2018.10.21 at 16h 52m 55s.xml">
+    <history-entry file="pytest_in_zad7_py - 2018.11.03 at 14h 40m 10s.xml">
       <configuration name="pytest in zad7.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -600,12 +819,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3300866" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32900432" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -687,49 +905,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="takie tam1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zjazd_1/początek/zad11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bootcamp1/venv/Lib/tcl8.6/init.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd_1/początek/zad12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd_1/początek/zad13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd_1/początek/zad14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="32" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd_1/kolekcje/zad7.py___jb_tmp___" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd_1/kolekcje/tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1025,14 +1200,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad_dokończ.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <marker date="1541238711428" expanded="true" signature="15:20" ph="..." />
+            <marker date="1541238711428" expanded="true" signature="320:485" ph="..." />
+            <marker date="1541238711428" expanded="true" signature="515:520" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <marker date="1541250156903" expanded="true" signature="208:240" ph="..." />
+            <marker date="1541250156903" expanded="true" signature="286:295" ph="..." />
+            <marker date="1541250156903" expanded="true" signature="649:748" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zadanie_rozgrzewka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1541243862891" expanded="true" signature="368:369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1541246168228" expanded="true" signature="18:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1541250872647" expanded="true" signature="175:194" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd3/klasy-przyklady.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <marker date="1541234286614" expanded="true" signature="101:106" ph="..." />
-            <marker date="1541234286614" expanded="true" signature="101:336" ph="..." />
-            <marker date="1541234286614" expanded="true" signature="309:314" ph="..." />
+            <marker date="1541244182972" expanded="true" signature="101:106" ph="..." />
+            <marker date="1541244182972" expanded="true" signature="101:613" ph="..." />
+            <marker date="1541244182972" expanded="true" signature="370:375" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/zad7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="83" column="25" lean-forward="true" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+          <folding>
+            <marker date="1541254123832" expanded="true" signature="565:635" ph="..." />
+            <marker date="1541254123832" expanded="true" signature="1518:1721" ph="..." />
+            <marker date="1541254123832" expanded="true" signature="1518:2077" ph="..." />
+            <marker date="1541254123832" expanded="true" signature="1617:1636" ph="..." />
           </folding>
         </state>
       </provider>

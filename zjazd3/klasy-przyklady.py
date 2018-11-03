@@ -26,12 +26,14 @@ class Animal:
 
 
 class LeniweZwierzeta(Animal):
-    pass
+    def idz(self):
+        self.stan="ma w nosie"
+        print("!!!!!!!bez jaj!!!!!")
 
 # tworzenie instancji danej klasy
 azor = Animal("Canis lupus")
 rudolf = Animal("Rangifer tarandus")
-
+garfield=Animal("Felis Catus")
 print(type(azor))
 print(azor)
 print(azor.gatunek)
@@ -46,12 +48,9 @@ azor.idz()
 print(azor.stan)
 azor.stoj()
 print(azor.stan)
-
+garfield.idz()
+print(garfield.stan)
 
 garfield=LeniweZwierzeta("Felis Catus")
 LeniweZwierzeta.idz(garfield)
-
-
 print(garfield.stan)
-
-
