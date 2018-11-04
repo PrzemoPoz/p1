@@ -17,7 +17,7 @@ class Basket_entry:
         return self.product.price * self.quantity
 
 
-class Basket():
+class Basket:
     def __init__(self):
         self.entries = []
 
@@ -39,8 +39,9 @@ class Basket():
         txt2 = str()
         for e in self.entries:
             txt2 += f'''- {e.product.name} ({e.product.ID}), cena: {e.product.price} x {e.quantity}\n'''
-        txt3 = f'''W sumie: {self.count_total_price()}'''
-        return txt1 + txt2 + txt3
+        txt3 = '''W sumie: {}'''
+        return txt1 + txt2 + txt3.format(self.count_total_price())
+
 
 basket = Basket()
 prod1 = Product(1, "Woda", 10)
@@ -55,7 +56,6 @@ def test_create_basket():
     basket = Basket()
     assert str(basket) == "Basket"
 
-
 def test_basket_count_total_price():
     basket = Basket()
     prod1 = Product(1, "Woda", 5)
@@ -64,7 +64,6 @@ def test_basket_count_total_price():
     prod2 = Product(2, "Wóda", 6)
     basket.add_product(prod2, 11.00)
     assert basket.count_total_price() == 116
-
 
 def test_basket_generate_report():
     basket = Basket()
