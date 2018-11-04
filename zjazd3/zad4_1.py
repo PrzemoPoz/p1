@@ -1,12 +1,15 @@
 class Product:
-    def __init__(self, ID, name, price):
-        self.ID = ID
+    ID = 0
+    def __init__(self, name, price):
         self.name = name
         self.price = price
-
+        self.zwieksz_ID()
     def print_info(self):
         return f'Produkt {self.name}, id: {self.ID}, cena: {self.price} PLN'
 
+    @classmethod
+    def zwieksz_ID(self):
+        self.ID += 1
 
 class Basket_entry:
     def __init__(self, product, quantity):
@@ -44,9 +47,9 @@ class Basket:
 
 
 basket = Basket()
-prod1 = Product(1, "Woda", 10)
+prod1 = Product("Woda", 10)
 basket.add_product(prod1, 5)
-prod2 = Product(2, "Wóda", 6)
+prod2 = Product("Wóda", 6)
 basket.add_product(prod2, 11)
 print(basket.count_total_price())
 print(basket.generate_report())
@@ -58,27 +61,26 @@ def test_create_basket():
 
 def test_basket_count_total_price():
     basket = Basket()
-    prod1 = Product(1, "Woda", 5)
+    prod1 = Product("Woda", 5)
     basket.add_product(prod1, 10.00)
     assert basket.count_total_price() == 50
-    prod2 = Product(2, "Wóda", 6)
+    prod2 = Product("Wóda", 6)
     basket.add_product(prod2, 11.00)
     assert basket.count_total_price() == 116
 
 def test_basket_generate_report():
     basket = Basket()
-    prod1 = Product(1, "Woda", 10)
+    prod1 = Product("Woda", 10)
     basket.add_product(prod1, 5)
     assert basket.generate_report() == '''Produkty w koszyku:
 - Woda (1), cena: 10 x 5
 W sumie: 50'''
 
-
 def test_basket_generate_report1():
     basket = Basket()
-    prod1 = Product(1, "Woda", 10)
+    prod1 = Product("Woda", 10)
     basket.add_product(prod1, 5)
-    prod2 = Product(2, "Wóda", 6)
+    prod2 = Product("Wóda", 6)
     basket.add_product(prod2, 11)
     assert basket.generate_report() == '''Produkty w koszyku:
 - Woda (1), cena: 10 x 5
