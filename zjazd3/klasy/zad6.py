@@ -25,11 +25,11 @@ class Vector():
 vector1 = Vector(1, 2)
 vector2 = Vector(1, 2)
 
-vector3 = vector1 + vector2
-print(vector3.x, vector3.y)
-
-vector3 = vector1 * 3
-print(vector3.x, vector3.y)
+# vector3 = vector1 + vector2
+# print(vector3.x, vector3.y)
+#
+# vector3 = vector1 * 3
+# print(vector3.x, vector3.y)
 
 
 def test_dlugosc():
