@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello_world.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/api_nbp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/api_weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/meble.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/pracownicy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/hello_world.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/warn-hello_world.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/build/hello_world/xref-hello_world.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/dist/hello_world.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/tworzenie_pliku_wykonywalnego/hello_world.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/api_weather.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/api_weather.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/warn-api_weather.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/xref-api_weather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/zad1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="330">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -692,7 +686,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542463221328</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="takie tam1">
+      <created>1542469475642</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1542469475642</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -738,7 +739,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17913593" />
@@ -1118,8 +1118,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="330">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
