@@ -10,6 +10,7 @@ def add_matrices(mat1, mat2):
         linijka = []
     return mat3
 
+
 def sub_matrices(mat1, mat2):
     linijka = []
     mat3 = []
