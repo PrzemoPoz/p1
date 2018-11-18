@@ -2,22 +2,989 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd4/dane/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/dane/csv_imp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/wykres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/api_weather.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/call_others.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dane/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dane/titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dane/zad5_wyr_regularne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/VCRUNTIME140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api_weather.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/api_weather.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/libcrypto-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/libssl-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/python37.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/auto.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/clock.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/ascii.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/big5.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1250.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1251.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1252.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1253.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1254.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1255.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1256.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1257.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp1258.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp437.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp737.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp775.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp850.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp852.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp855.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp857.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp860.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp861.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp862.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp863.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp864.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp865.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp866.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp869.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp874.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp932.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp936.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp949.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/cp950.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/dingbats.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/ebcdic.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/euc-cn.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/euc-jp.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/euc-kr.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/gb12345.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/gb1988.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/gb2312-raw.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/gb2312.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso2022-jp.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso2022-kr.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso2022.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-1.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-10.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-13.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-14.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-15.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-16.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-2.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-3.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-4.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-5.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-6.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-7.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-8.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/iso8859-9.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/jis0201.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/jis0208.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/jis0212.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/koi8-r.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/koi8-u.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/ksc5601.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macCentEuro.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macCroatian.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macCyrillic.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macDingbats.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macGreek.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macIceland.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macJapan.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macRoman.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macRomania.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macThai.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macTurkish.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/macUkraine.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/shiftjis.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/symbol.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/encoding/tis-620.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/history.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/http1.0/http.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/http1.0/pkgIndex.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/af.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/af_za.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ar.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ar_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ar_jo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ar_lb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ar_sy.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/bg.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/bn.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/bn_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ca.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/cs.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/da.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/de.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/de_at.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/de_be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/el.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_au.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_bw.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_ca.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_gb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_hk.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_ie.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_nz.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_ph.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_sg.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_za.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/en_zw.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/eo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_ar.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_bo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_cl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_co.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_cr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_do.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_ec.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_gt.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_hn.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_mx.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_ni.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_pa.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_pe.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_pr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_py.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_sv.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_uy.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/es_ve.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/et.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/eu.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/eu_es.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fa.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fa_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fa_ir.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fi.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fo_fo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fr_be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fr_ca.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/fr_ch.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ga.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ga_ie.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/gl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/gl_es.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/gv.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/gv_gb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/he.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/hi.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/hi_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/hr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/hu.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/id.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/id_id.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/is.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/it.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/it_ch.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ja.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kl_gl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ko.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ko_kr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kok.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kok_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kw.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/kw_gb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/lt.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/lv.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/mk.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/mr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/mr_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ms.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ms_my.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/mt.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/nb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/nl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/nl_be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/nn.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/pl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/pt.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/pt_br.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ro.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ru.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ru_ua.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sh.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sk.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sq.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sv.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/sw.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ta.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/ta_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/te.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/te_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/th.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/tr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/uk.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/vi.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/zh.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/zh_cn.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/zh_hk.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/zh_sg.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/msgs/zh_tw.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/opt0.4/optparse.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/opt0.4/pkgIndex.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/package.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/parray.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/safe.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tclIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tm.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Abidjan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Accra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Addis_Ababa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Algiers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Asmara" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Asmera" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Bamako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Bangui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Banjul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Bissau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Blantyre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Brazzaville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Bujumbura" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Cairo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Casablanca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Ceuta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Conakry" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Dakar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Dar_es_Salaam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Djibouti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Douala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/El_Aaiun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Freetown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Gaborone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Harare" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Johannesburg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Juba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Kampala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Khartoum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Kigali" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Kinshasa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Lagos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Libreville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Lome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Luanda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Lubumbashi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Lusaka" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Malabo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Maputo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Maseru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Mbabane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Mogadishu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Monrovia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Nairobi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Ndjamena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Niamey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Nouakchott" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Ouagadougou" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Porto-Novo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Sao_Tome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Timbuktu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Tripoli" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Tunis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Africa/Windhoek" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Adak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Anchorage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Anguilla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Antigua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Araguaina" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Buenos_Aires" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Catamarca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/ComodRivadavia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Cordoba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Jujuy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/La_Rioja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Mendoza" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Rio_Gallegos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Salta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/San_Juan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/San_Luis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Tucuman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Argentina/Ushuaia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Aruba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Asuncion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Atikokan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Atka" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Bahia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Bahia_Banderas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Barbados" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Belem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Belize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Blanc-Sablon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Boa_Vista" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Bogota" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Boise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Buenos_Aires" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cambridge_Bay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Campo_Grande" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cancun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Caracas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Catamarca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cayenne" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cayman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Chicago" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Chihuahua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Coral_Harbour" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cordoba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Costa_Rica" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Creston" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Cuiaba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Curacao" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Danmarkshavn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Dawson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Dawson_Creek" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Denver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Detroit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Dominica" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Edmonton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Eirunepe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/El_Salvador" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Ensenada" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Fort_Nelson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Fort_Wayne" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Fortaleza" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Glace_Bay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Godthab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Goose_Bay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Grand_Turk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Grenada" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Guadeloupe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Guatemala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Guayaquil" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Guyana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Halifax" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Havana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Hermosillo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Indianapolis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Knox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Marengo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Petersburg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Tell_City" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Vevay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Vincennes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indiana/Winamac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Indianapolis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Inuvik" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Iqaluit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Jamaica" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Jujuy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Juneau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Kentucky/Louisville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Kentucky/Monticello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Knox_IN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Kralendijk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/La_Paz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Lima" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Los_Angeles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Louisville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Lower_Princes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Maceio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Managua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Manaus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Marigot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Martinique" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Matamoros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Mazatlan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Mendoza" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Menominee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Merida" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Metlakatla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Mexico_City" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Miquelon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Moncton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Monterrey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Montevideo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Montreal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Montserrat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Nassau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/New_York" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Nipigon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Nome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Noronha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/North_Dakota/Beulah" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/North_Dakota/Center" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/North_Dakota/New_Salem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Ojinaga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Panama" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Pangnirtung" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Paramaribo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Phoenix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Port-au-Prince" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Port_of_Spain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Porto_Acre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Porto_Velho" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Puerto_Rico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Punta_Arenas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Rainy_River" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Rankin_Inlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Recife" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Regina" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Resolute" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Rio_Branco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Rosario" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Santa_Isabel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Santarem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Santiago" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Santo_Domingo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Sao_Paulo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Scoresbysund" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Shiprock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Sitka" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Barthelemy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Johns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Kitts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Lucia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Thomas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/St_Vincent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Swift_Current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Tegucigalpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Thule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Thunder_Bay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Tijuana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Toronto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Tortola" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Vancouver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Virgin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Whitehorse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Winnipeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Yakutat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/America/Yellowknife" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Casey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Davis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/DumontDUrville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Macquarie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Mawson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/McMurdo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Palmer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Rothera" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/South_Pole" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Syowa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Troll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Antarctica/Vostok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Arctic/Longyearbyen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Aden" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Almaty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Amman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Anadyr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Aqtau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Aqtobe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ashgabat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ashkhabad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Atyrau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Baghdad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Bahrain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Baku" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Bangkok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Barnaul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Beirut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Bishkek" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Brunei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Calcutta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Chita" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Choibalsan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Chongqing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Chungking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Colombo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Dacca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Damascus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Dhaka" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Dili" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Dubai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Dushanbe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Famagusta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Gaza" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Harbin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Hebron" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ho_Chi_Minh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Hong_Kong" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Hovd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Irkutsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Istanbul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Jakarta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Jayapura" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Jerusalem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kabul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kamchatka" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Karachi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kashgar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kathmandu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Katmandu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Khandyga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kolkata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Krasnoyarsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kuala_Lumpur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kuching" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Kuwait" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Macao" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Macau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Magadan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Makassar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Manila" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Muscat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Nicosia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Novokuznetsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Novosibirsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Omsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Oral" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Phnom_Penh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Pontianak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Pyongyang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Qatar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Qyzylorda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Rangoon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Riyadh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Saigon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Sakhalin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Samarkand" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Seoul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Shanghai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Singapore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Srednekolymsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Taipei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tashkent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tbilisi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tehran" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tel_Aviv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Thimbu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Thimphu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tokyo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Tomsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ujung_Pandang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ulaanbaatar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ulan_Bator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Urumqi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Ust-Nera" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Vientiane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Vladivostok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Yakutsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Yangon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Yekaterinburg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Asia/Yerevan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Azores" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Bermuda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Canary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Cape_Verde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Faeroe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Faroe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Jan_Mayen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Madeira" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Reykjavik" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/South_Georgia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/St_Helena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Atlantic/Stanley" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/ACT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Adelaide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Brisbane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Broken_Hill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Canberra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Currie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Eucla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Hobart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/LHI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Lindeman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Lord_Howe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Melbourne" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/NSW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/North" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Perth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Queensland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/South" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Sydney" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Tasmania" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Victoria" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/West" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Australia/Yancowinna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Brazil/Acre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Brazil/DeNoronha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Brazil/East" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Brazil/West" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/CET" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/CST6CDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Atlantic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Central" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/East-Saskatchewan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Eastern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Mountain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Newfoundland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Pacific" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Saskatchewan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Canada/Yukon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Chile/Continental" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Chile/EasterIsland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Cuba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/EET" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/EST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/EST5EDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Egypt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Eire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT+9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT-9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/GMT0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/Greenwich" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/UCT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/UTC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/Universal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Etc/Zulu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Amsterdam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Andorra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Astrakhan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Athens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Belfast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Belgrade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Berlin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Bratislava" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Brussels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Bucharest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Budapest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Busingen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Chisinau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Copenhagen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Dublin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Gibraltar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Guernsey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Helsinki" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Isle_of_Man" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Istanbul" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Jersey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Kaliningrad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Kiev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Kirov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Lisbon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Ljubljana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/London" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Luxembourg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Madrid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Malta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Mariehamn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Minsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Monaco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Moscow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Nicosia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Oslo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Paris" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Podgorica" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Prague" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Riga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Rome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Samara" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/San_Marino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Sarajevo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Saratov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Simferopol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Skopje" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Sofia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Stockholm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Tallinn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Tirane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Tiraspol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Ulyanovsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Uzhgorod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Vaduz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Vatican" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Vienna" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Vilnius" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Volgograd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Warsaw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Zagreb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Zaporozhye" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Europe/Zurich" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GB-Eire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GMT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GMT+0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GMT-0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/GMT0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Greenwich" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/HST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Hongkong" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Iceland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Antananarivo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Chagos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Christmas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Cocos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Comoro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Kerguelen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Mahe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Maldives" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Mauritius" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Mayotte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Indian/Reunion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Iran" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Israel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Jamaica" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Japan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Kwajalein" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Libya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/MET" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/MST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/MST7MDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Mexico/BajaNorte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Mexico/BajaSur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Mexico/General" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/NZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/NZ-CHAT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Navajo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/PRC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/PST8PDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Apia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Auckland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Bougainville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Chatham" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Chuuk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Easter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Efate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Enderbury" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Fakaofo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Fiji" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Funafuti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Galapagos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Gambier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Guadalcanal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Guam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Honolulu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Johnston" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Kiritimati" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Kosrae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Kwajalein" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Majuro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Marquesas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Midway" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Nauru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Niue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Norfolk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Noumea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Pago_Pago" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Palau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Pitcairn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Pohnpei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Ponape" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Port_Moresby" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Rarotonga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Saipan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Samoa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Tahiti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Tarawa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Tongatapu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Truk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Wake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Wallis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Pacific/Yap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Poland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Portugal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/ROC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/ROK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Singapore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/AST4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/AST4ADT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/CST6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/CST6CDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/EST5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/EST5EDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/HST10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/MST7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/MST7MDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/PST8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/PST8PDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/YST9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/SystemV/YST9YDT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Turkey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/UCT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Alaska" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Aleutian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Arizona" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Central" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/East-Indiana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Eastern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Hawaii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Indiana-Starke" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Michigan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Mountain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Pacific" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Pacific-New" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/US/Samoa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/UTC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Universal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/W-SU" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/WET" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/tzdata/Zulu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl/word.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/bgerror.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/button.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/choosedir.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/clrpick.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/comdlg.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/console.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/dialog.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/entry.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/focus.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/fontchooser.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/iconlist.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/icons.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/logo.eps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/logo100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/logo64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/logoLarge.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/logoMed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo.eps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo150.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo175.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo200.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/pwrdLogo75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/images/tai-ku.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/license.terms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/listbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/megawidget.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/menu.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/mkpsenc.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/cs.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/da.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/de.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/el.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/en.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/en_gb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/eo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/es.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/fr.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/hu.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/it.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/nl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/pl.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/pt.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/ru.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/msgs/sv.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/obsolete.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/optMenu.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/palette.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/panedwindow.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/pkgIndex.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/safetk.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/scale.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/scrlbar.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/spinbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/tclIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/tearoff.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/text.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/tk.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/tkfbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/altTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/aquaTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/button.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/clamTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/classicTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/combobox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/cursors.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/defaults.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/entry.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/fonts.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/menubutton.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/notebook.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/panedwindow.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/progress.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/scale.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/scrollbar.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/sizegrip.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/spinbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/treeview.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/ttk.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/utils.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/vistaTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/winTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/ttk/xpTheme.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/unsupported.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk/xmfbox.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dist/api_weather/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/inne_notatki.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/raport.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/web_scrapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/wyr_regularne.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/api_weather.spec" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/api_weather.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/xref-api_weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/xref-api_weather.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/zad3_spalanie_tkinter_api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +1004,9 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,24 +1017,26 @@
           <entry key="cfg" value="2" />
           <entry key="csv" value="3" />
           <entry key="gitignore" value="5" />
+          <entry key="ipynb" value="1" />
           <entry key="json" value="19" />
           <entry key="manifest" value="5" />
           <entry key="not-zip-safe" value="1" />
           <entry key="pem" value="1" />
           <entry key="ps1" value="1" />
           <entry key="pth" value="2" />
-          <entry key="py" value="580" />
+          <entry key="py" value="591" />
           <entry key="py___jb_tmp___" value="1" />
           <entry key="spec" value="2" />
           <entry key="tcl" value="3" />
-          <entry key="txt" value="33" />
+          <entry key="txt" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="1" />
           <entry key="JSON" value="19" />
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="578" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="589" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -77,7 +1046,7 @@
           <entry key="dummy" value="49" />
           <entry key="gitignore" value="30" />
           <entry key="json" value="36" />
-          <entry key="py" value="39750" />
+          <entry key="py" value="41208" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
@@ -85,22 +1054,31 @@
         <counts>
           <entry key="JSON" value="36" />
           <entry key="PLAIN_TEXT" value="101" />
-          <entry key="Python" value="39798" />
+          <entry key="Python" value="41256" />
           <entry key="Scratch" value="281" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bootcamp" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py">
+        <entry file="file://$PROJECT_DIR$/zjazd4/dane/zad5_wyr_regularne.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd4/dane/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="152" selection-start-column="136" selection-end-column="152" />
             </state>
           </provider>
         </entry>
@@ -110,6 +1088,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -123,10 +1102,13 @@
       <find>path</find>
       <find>title</find>
       <find>color</find>
+      <find>.txt</find>
+      <find>\b</find>
+      <find>\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b</find>
     </findStrings>
     <dirStrings>
-      <dir>C:\Users\kurs\PycharmProjects\bootcamp</dir>
       <dir>C:\Users\kurs\PycharmProjects\bootcamp\zjazd2\funkcje</dir>
+      <dir>C:\Users\kurs\PycharmProjects\bootcamp</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -135,12 +1117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack9.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/przyklady.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/args_kwa/rgs.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/zad4.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/zad4opt.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/lambda.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/zad7.py" />
         <option value="$PROJECT_DIR$/zjazd3/zad1.py" />
         <option value="$PROJECT_DIR$/zjazd3/zad_dokończ.py" />
@@ -186,6 +1162,12 @@
         <option value="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" />
         <option value="$PROJECT_DIR$/zjazd4/wykres.py" />
         <option value="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" />
+        <option value="$PROJECT_DIR$/zjazd4/call_others.py" />
+        <option value="$PROJECT_DIR$/zjazd4/mail.py" />
+        <option value="$PROJECT_DIR$/zjazd4/web_scrapping.py" />
+        <option value="$PROJECT_DIR$/zjazd4/inne_notatki.ipynb" />
+        <option value="$PROJECT_DIR$/zjazd4/wyr_regularne.py" />
+        <option value="$PROJECT_DIR$/zjazd4/dane/zad5_wyr_regularne.py" />
       </list>
     </option>
   </component>
@@ -229,7 +1211,28 @@
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="zjazd4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd4" type="462c0819:PsiDirectoryNode" />
+              <item name="dane" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,11 +1247,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\data" />
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\dane" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4" />
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\data" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3\klasy" />
-      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3" />
@@ -268,8 +1271,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wykres_z_przetw_csv">
-    <configuration name="csv_imp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zad5_wyr_regularne">
+    <configuration name="call_others" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/call_others.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_scrapping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/web_scrapping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wyr_regularne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/wyr_regularne.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad5_wyr_regularne" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,91 +1368,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/dane/csv_imp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rap_csv_do_pptx" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tworzenie_pptx" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/tworzenie_pptx.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wykres" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/wykres.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wykres_z_przetw_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/dane/zad5_wyr_regularne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,19 +1410,19 @@
     <list>
       <item itemvalue="Python tests.pytest in C:/Users/kurs/PycharmProjects/bootcamp/zjazd3/zad4.py" />
       <item itemvalue="Python tests.pytest in zad6.py" />
-      <item itemvalue="Python.csv_imp (1)" />
-      <item itemvalue="Python.tworzenie_pptx" />
-      <item itemvalue="Python.rap_csv_do_pptx" />
-      <item itemvalue="Python.wykres" />
-      <item itemvalue="Python.wykres_z_przetw_csv" />
+      <item itemvalue="Python.call_others" />
+      <item itemvalue="Python.mail" />
+      <item itemvalue="Python.web_scrapping" />
+      <item itemvalue="Python.wyr_regularne" />
+      <item itemvalue="Python.zad5_wyr_regularne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wykres_z_przetw_csv" />
-        <item itemvalue="Python.wykres" />
-        <item itemvalue="Python.rap_csv_do_pptx" />
-        <item itemvalue="Python.csv_imp (1)" />
-        <item itemvalue="Python.tworzenie_pptx" />
+        <item itemvalue="Python.zad5_wyr_regularne" />
+        <item itemvalue="Python.wyr_regularne" />
+        <item itemvalue="Python.web_scrapping" />
+        <item itemvalue="Python.mail" />
+        <item itemvalue="Python.call_others" />
       </list>
     </recent_temporary>
   </component>
@@ -714,7 +1717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542532500739</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="takie tam1">
+      <created>1542542013769</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1542542013769</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -762,20 +1772,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17913593" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.5016611" side_tool="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49833888" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="2" sideWeight="0.5016611" side_tool="true" weight="0.17913593" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3300866" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32900432" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32900432" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32900432" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.34848484" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.22943723" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32900432" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -827,50 +1837,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="takie tam1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/klasy/zad6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/tests/test_gemoetry.py" />
-    <entry file="file://$PROJECT_DIR$/zjazd3/klasy/zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd2/funkcje/zad4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd2/funkcje/zad3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd2/funkcje/zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/zjazd4/tests/test_geometry.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -889,20 +1855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1302">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1022,9 +1974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1542530450700" expanded="true" signature="197:218" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,9 +1981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,9 +1998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1065,9 +2008,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/tworzenie_pptx.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/tworzenie_pptx.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pptx/slide.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1082,20 +2023,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/dane/csv_imp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" lean-forward="true" selection-end-line="79" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,11 +2046,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="908">
           <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/inne_notatki.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/web_scrapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/call_others.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/dane/csv_imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/wyr_regularne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/dane/zad5_wyr_regularne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/dane/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="152" selection-start-column="136" selection-end-column="152" />
         </state>
       </provider>
     </entry>
