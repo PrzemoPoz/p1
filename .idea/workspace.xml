@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd4/przyklad_tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd4/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dane/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/dane/csv_imp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/wykres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zjazd4/api_weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/api_weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/api_weather.spec" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/api_weather.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/build/api_weather/xref-api_weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/build/api_weather/xref-api_weather.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zjazd4/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zjazd4/zad3_spalanie_tkinter_api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +48,7 @@
           <entry key="activate" value="1" />
           <entry key="bat" value="2" />
           <entry key="cfg" value="2" />
+          <entry key="csv" value="3" />
           <entry key="gitignore" value="5" />
           <entry key="json" value="19" />
           <entry key="manifest" value="5" />
@@ -43,8 +56,9 @@
           <entry key="pem" value="1" />
           <entry key="ps1" value="1" />
           <entry key="pth" value="2" />
-          <entry key="py" value="563" />
+          <entry key="py" value="580" />
           <entry key="py___jb_tmp___" value="1" />
+          <entry key="spec" value="2" />
           <entry key="tcl" value="3" />
           <entry key="txt" value="33" />
         </counts>
@@ -52,26 +66,26 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="19" />
-          <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="561" />
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="Python" value="578" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="329" />
-          <entry key="dummy" value="16" />
+          <entry key="dummy" value="49" />
           <entry key="gitignore" value="30" />
           <entry key="json" value="36" />
-          <entry key="py" value="37861" />
+          <entry key="py" value="39750" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="36" />
-          <entry key="PLAIN_TEXT" value="68" />
-          <entry key="Python" value="37909" />
+          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="Python" value="39798" />
           <entry key="Scratch" value="281" />
         </counts>
       </usages-collector>
@@ -80,12 +94,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.py">
+        <entry file="file://$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="449">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +122,7 @@
       <find>append</find>
       <find>path</find>
       <find>title</find>
+      <find>color</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\kurs\PycharmProjects\bootcamp</dir>
@@ -120,14 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack1.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack2.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack3.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack5.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack4.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack6.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack7.py" />
-        <option value="$PROJECT_DIR$/zjazd2/funkcje/slack8.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/slack9.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/przyklady.py" />
         <option value="$PROJECT_DIR$/zjazd2/funkcje/args_kwa/rgs.py" />
@@ -171,6 +178,14 @@
         <option value="$PROJECT_DIR$/zjazd4/przyklad_tkinter.py" />
         <option value="$PROJECT_DIR$/zjazd4/zad3.py" />
         <option value="$PROJECT_DIR$/zjazd4/api_weather.py" />
+        <option value="$PROJECT_DIR$/zjazd4/zad3_spalanie_tkinter_api.py" />
+        <option value="$PROJECT_DIR$/zjazd4/csv.py" />
+        <option value="$PROJECT_DIR$/zjazd4/data/csv.py" />
+        <option value="$PROJECT_DIR$/zjazd4/tworzenie_pptx.py" />
+        <option value="$PROJECT_DIR$/zjazd4/dane/csv_imp.py" />
+        <option value="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" />
+        <option value="$PROJECT_DIR$/zjazd4/wykres.py" />
+        <option value="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" />
       </list>
     </option>
   </component>
@@ -229,11 +244,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\data" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3\klasy" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\" />
-      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd2\funkcje" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3" />
@@ -253,8 +268,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.api_weather">
-    <configuration name="api_nbp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wykres_z_przetw_csv">
+    <configuration name="csv_imp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zjazd4/dane" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/api_nbp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/dane/csv_imp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rap_csv_do_pptx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/api_weather.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="przyklad_tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tworzenie_pptx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +323,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/przyklad_tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/tworzenie_pptx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wykres" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +344,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/zad1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/wykres.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wykres_z_przetw_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +365,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/zad3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,19 +407,19 @@
     <list>
       <item itemvalue="Python tests.pytest in C:/Users/kurs/PycharmProjects/bootcamp/zjazd3/zad4.py" />
       <item itemvalue="Python tests.pytest in zad6.py" />
-      <item itemvalue="Python.zad1" />
-      <item itemvalue="Python.api_nbp" />
-      <item itemvalue="Python.api_weather" />
-      <item itemvalue="Python.przyklad_tkinter" />
-      <item itemvalue="Python.zad3" />
+      <item itemvalue="Python.csv_imp (1)" />
+      <item itemvalue="Python.tworzenie_pptx" />
+      <item itemvalue="Python.rap_csv_do_pptx" />
+      <item itemvalue="Python.wykres" />
+      <item itemvalue="Python.wykres_z_przetw_csv" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_weather" />
-        <item itemvalue="Python.zad3" />
-        <item itemvalue="Python.przyklad_tkinter" />
-        <item itemvalue="Python.api_nbp" />
-        <item itemvalue="Python.zad1" />
+        <item itemvalue="Python.wykres_z_przetw_csv" />
+        <item itemvalue="Python.wykres" />
+        <item itemvalue="Python.rap_csv_do_pptx" />
+        <item itemvalue="Python.csv_imp (1)" />
+        <item itemvalue="Python.tworzenie_pptx" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542470124782</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="takie tam1">
+      <created>1542532500739</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1542532500739</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -805,45 +827,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="takie tam1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zjazd3/dane/adresy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/dane/nowy_plik.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/dane/nowy_plik1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd3/przykład_importu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/mathematica/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-417207985/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="653" column="55" lean-forward="true" selection-start-line="653" selection-start-column="55" selection-end-line="653" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/przyklad_importu_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/mathematica/geometry/triangle_area.py" />
-    <entry file="file://$PROJECT_DIR$/zjazd4/mathematica/geometry/square_area.py" />
     <entry file="file://$PROJECT_DIR$/zjazd3/pliki_zad3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1029,20 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/api_nbp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1059,19 +1028,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/zad3.py">
+    <entry file="file://$PROJECT_DIR$/zjazd4/api_nbp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/zad3_spalanie_tkinter_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.spec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="58">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/dane/titanic_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/tworzenie_pptx.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pptx/slide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="410" lean-forward="true" selection-start-line="410" selection-end-line="410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/zad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/dane/csv_imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" lean-forward="true" selection-end-line="79" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/wykres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="2942" column="52" lean-forward="true" selection-start-line="2942" selection-start-column="52" selection-end-line="2942" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd4/wykres_z_przetw_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
