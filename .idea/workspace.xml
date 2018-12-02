@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9fc94e-7058-470a-ae7c-a15513080831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zjazd5/dash/dash_przyklad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd5/dash/dash_przyklad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zjazd5/dash/flask_przyk1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/exercises/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/exercises/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/exercises/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_det.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/maff/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/main_page/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zjazd5/django/exercises/product/templates/prod_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +40,9 @@
     <session id="-719236039">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="2" />
@@ -29,7 +50,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,6 +61,7 @@
           <entry key="cfg" value="2" />
           <entry key="csv" value="3" />
           <entry key="gitignore" value="5" />
+          <entry key="html" value="15" />
           <entry key="ipynb" value="3" />
           <entry key="json" value="19" />
           <entry key="manifest" value="5" />
@@ -48,7 +70,7 @@
           <entry key="png" value="1" />
           <entry key="ps1" value="1" />
           <entry key="pth" value="2" />
-          <entry key="py" value="622" />
+          <entry key="py" value="641" />
           <entry key="py___jb_tmp___" value="1" />
           <entry key="spec" value="3" />
           <entry key="tcl" value="3" />
@@ -57,11 +79,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="15" />
           <entry key="IPNB" value="3" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="19" />
           <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="620" />
+          <entry key="Python" value="639" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -70,16 +93,18 @@
           <entry key="Python Console" value="329" />
           <entry key="dummy" value="49" />
           <entry key="gitignore" value="30" />
+          <entry key="html" value="363" />
           <entry key="json" value="36" />
-          <entry key="py" value="43316" />
+          <entry key="py" value="44449" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="363" />
           <entry key="JSON" value="36" />
           <entry key="PLAIN_TEXT" value="101" />
-          <entry key="Python" value="43364" />
+          <entry key="Python" value="44497" />
           <entry key="Scratch" value="281" />
         </counts>
       </usages-collector>
@@ -89,58 +114,48 @@
     <favorites_list name="bootcamp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/templates/prod_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_det.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/views.py">
+        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/registration/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/models.py">
+        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1543749409038" expanded="true" signature="83:88" ph="..." />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/settings.py">
+        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/migrations/0001_initial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="e#633#665#0" expanded="true" />
-                <marker date="1543748556295" expanded="true" signature="797:798" ph="..." />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -152,6 +167,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -181,15 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zjazd3/zad4_1.py" />
-        <option value="$PROJECT_DIR$/zjazd3/pliki/pliki-intro.py" />
-        <option value="$PROJECT_DIR$/zjazd3/pliki-intro.py" />
-        <option value="$PROJECT_DIR$/zjazd3/pliki_zad1.py" />
-        <option value="$PROJECT_DIR$/zjazd3/pliki_zad2.py" />
-        <option value="$PROJECT_DIR$/zjazd3/pliki_zad3.py" />
-        <option value="$PROJECT_DIR$/zjazd3/przykład_importu.py" />
-        <option value="$PROJECT_DIR$/zjazd3/klasy/zad6.py" />
-        <option value="$PROJECT_DIR$/zjazd4/przyklad_importu_1.py" />
         <option value="$PROJECT_DIR$/zjazd4/mathematica/geometry/square_area.py" />
         <option value="$PROJECT_DIR$/zjazd4/mathematica/geometry/triangle_area.py" />
         <option value="$PROJECT_DIR$/zjazd4/tests/test_gemoetry.py" />
@@ -228,10 +235,19 @@
         <option value="$PROJECT_DIR$/zjazd5/dash/flask_przyk1.py" />
         <option value="$PROJECT_DIR$/zjazd5/django/exercises/manage.py" />
         <option value="$PROJECT_DIR$/zjazd5/django/exercises/main_page/views.py" />
-        <option value="$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py" />
-        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/views.py" />
         <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/models.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/base.html" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/views.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/product/models.py" />
         <option value="$PROJECT_DIR$/zjazd5/django/exercises/exercises/settings.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/product/templates/prod_list.html" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/product/views.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/admin.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/product/admin.py" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_det.html" />
+        <option value="$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_list.html" />
       </list>
     </option>
   </component>
@@ -264,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,7 +335,7 @@
               <item name="django" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="maff" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
@@ -326,16 +343,35 @@
               <item name="zjazd5" type="462c0819:PsiDirectoryNode" />
               <item name="django" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="main_page" type="462c0819:PsiDirectoryNode" />
+              <item name="maff" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd5" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="zjazd5" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/zjazd5/django/exercises/manage.py" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
@@ -347,11 +383,11 @@
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd5\django\exercises\maff\templates" />
+      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd5\django\exercises\maff\templates\registration" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd5" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4" />
       <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\dane" />
-      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd4\data" />
-      <recent name="C:\Users\kurs\PycharmProjects\bootcamp\zjazd3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -869,7 +905,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543679646340</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="takie tam1">
+      <created>1543750750208</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1543750750208</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -915,17 +958,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" sideWeight="0.5032258" side_tool="true" weight="0.17913593" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4967742" visible="true" weight="0.17913593" />
-      <window_info id="Structure" order="2" sideWeight="0.5032258" side_tool="true" weight="0.17913593" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.70706004" visible="true" weight="0.3300866" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.29293993" side_tool="true" visible="true" weight="0.3300866" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49578503" weight="0.32900432" />
+      <window_info id="Favorites" order="0" sideWeight="0.50403875" side_tool="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49596122" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="2" sideWeight="0.50403875" side_tool="true" weight="0.17913593" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.70337194" weight="0.3300866" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50790304" side_tool="true" visible="true" weight="0.22943723" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49367756" weight="0.32900432" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32900432" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49736565" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49367756" weight="0.22943723" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49209693" visible="true" weight="0.22943723" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49841937" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -981,72 +1025,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="takie tam1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zjazd2/funkcje/zad7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/przyklad_tkinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/api_nbp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/zad3_spalanie_tkinter_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.spec">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/api_weather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/dane/titanic_train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/tworzenie_pptx.py" />
-    <entry file="file://$PROJECT_DIR$/zjazd4/zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd4/rap_csv_do_pptx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" lean-forward="true" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zjazd4/wykres.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -1197,9 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1207,10 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1543739111233" expanded="true" signature="344:463" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1223,16 +1194,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/main_page/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1265,23 +1226,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py">
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/admin/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="133" column="56" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
-            <element signature="e#633#665#0" expanded="true" />
-            <marker date="1543748556295" expanded="true" signature="797:798" ph="..." />
+            <element signature="e#22#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1295,27 +1273,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/migrations/0001_initial.py">
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+            <marker date="1543764980533" expanded="true" signature="867:868" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/exercises/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/product/templates/prod_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_det.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/maff_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjazd5/django/exercises/maff/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

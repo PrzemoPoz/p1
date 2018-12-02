@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Lista operacji</h1>
+
+<table>
+{% for m in maffs %}
+    <tr>
+        <td><a href="/maffs/{{m.id}}">{{m.funk}}</a></td>
+        <td>{{m.int1}}</td>
+        <td>{{m.int2}}</td>
+    </tr>
+{% endfor %}
+</table>
